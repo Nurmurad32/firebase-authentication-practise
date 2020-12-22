@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-color: powderblue;
+  height: 100%;
+  padding: 80px;
+}
+
+.form-control input{
+  padding: 5px;
+  margin: 5px;
+  border-color: rgb(2, 34, 34);
+  /* line-height: 10px; */
 }
 
 .App-logo {
